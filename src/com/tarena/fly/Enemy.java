@@ -1,9 +1,9 @@
 package com.tarena.fly;
 
 /**
- * µĞÈË£¬¿ÉÒÔÓĞ·ÖÊı
+ * æ•Œäººï¼Œå¯ä»¥æœ‰åˆ†æ•°
  */
 public interface Enemy {
-	/** µĞÈËµÄ·ÖÊı  */
+	/** æ•Œäººçš„åˆ†æ•°  */
 	int getScore();
 }
